@@ -18,7 +18,7 @@
   - nemovietaquarium.com
   - quanthiennhien.com
   - banhmihongan.com
-  - nhatminhhotel.com.vn
+  - hotelnhatminh.com.vn
   - binhdothanh.com
   - chungnhankosher.com
   - maichetonxep.com
