@@ -1,4 +1,17 @@
 # ListWebPHP
+
+
+- shopvuphuc.com
+- datunhiensuoicat.vn
+- california-minigame.aegona.net
+- ghf.com.vn
+- chatbot.mit.vn
+- fosibio.medsi.vn
+- mandala-v3.chichi.aegona.work => Phiên bản demo
+- traveldiewelt.de
+
+#14/11/2025 update
+
 - massagenine.com
 - oasis-pickleballsaigon.com
 - thicongnoithathocmon.com
